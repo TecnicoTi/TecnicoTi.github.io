@@ -2,7 +2,7 @@
 
 Sou Pedro Antônio de Andrade Alexadre, 18 Anos,Cursando Análise e Desenvolvimento de Sistemas pela Etec Raphael Brandão Barretos.
 
-Tenho grande interesse por Tecnologia :computer: , especialmente pelo Desenvolvimento Web e Sistemas.
+Tenho grande interesse por Tecnologia, especialmente pelo Desenvolvimento Web e Sistemas.
 
 ## Experiências em Desenvolvimento de Software
 
