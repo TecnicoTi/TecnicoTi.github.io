@@ -16,14 +16,23 @@ Tenho grande interesse por Tecnologia, especialmente pelo Desenvolvimento Web e 
 
 ## Experiências 
 **Troia Parts- LTDA **
+
 Cargo: Serviço Geral – (10/04/2019 – 05/11/2019  );
+
 Atribuições;
+
 •	Gerenciar estoque;
+
 •	Controle de vendas feitas e notas fiscais dos produtos;
+
 •	Controle de estoques do sistema;
+
 •	Responsável pelos envios do correio e pagamentos.;
+
 •	Certificação e Liberação de Produtos;
+
 •	Responsável pela garantia;
+
 •	Responsável nas efetuação da venda;
 -____________________________________________________________
 **  Eletro Ar**    
