@@ -12,26 +12,26 @@ Tenho grande interesse por Tecnologia, especialmente pelo Desenvolvimento Web e 
 - *Modelagem de Banco de Dados Relacionais Oracle, SQL Server e MySQL;*
 - *Desenvolvimento com C#; *
 - *Desenvolvimento Web com HTML5, CSS3, Javascript, Bootstrap, PHP e JSP (JavaServer Pages);*
-- *Desenvolvimento Web com Gerenciador de Conteúdo Wordpress e Plugins.*
+- *Desenvolvimento Web com Gerenciador de Conteúdo Wordpress e Plugins;*
 
 ## Experiências 
 **Troia Parts- LTDA **
-Cargo: Serviço Geral – (10/04/2019 – 05/11/2019  )
-Atribuições:
-•	Gerenciar estoque .
-•	Controle de vendas feitas e notas fiscais dos produtos.
-•	Controle de estoques do sistema.
-•	Responsável pelos envios do correio e pagamentos.
-•	Certificação e Liberação de Produtos.
-•	Responsável pela garantia
-•	Responsável nas efetuação da venda.
+Cargo: Serviço Geral – (10/04/2019 – 05/11/2019  );
+Atribuições;
+•	Gerenciar estoque;
+•	Controle de vendas feitas e notas fiscais dos produtos;
+•	Controle de estoques do sistema;
+•	Responsável pelos envios do correio e pagamentos.;
+•	Certificação e Liberação de Produtos;
+•	Responsável pela garantia;
+•	Responsável nas efetuação da venda;
 -____________________________________________________________
 **  Eletro Ar**    
 Cargo: Ajudante de Técnico em Ar-condicionado -(12/08/2018 – 15/02/2019).
-Atribuições:
-•	Responsável por fazer instalação e remoção de Ar-condicionado.
-•	Higienização do Ar-condicionado no ambiente e fora do ambiente instalado.
-•	Responsável pela parte elétrica.
+**Atribuição**
+•	Responsável por fazer instalação e remoção de Ar-condicionado;
+•	Higienização do Ar-condicionado no ambiente e fora do ambiente instalado;
+•	Responsável pela parte elétrica;
 
 ## Conhecimento Profissional
 -*•	Conhecimento intermediário dos Sistemas Operacionais Windows 7, Windows 8, Windows 10, Linux Mint, Linux Ubuntu;*
