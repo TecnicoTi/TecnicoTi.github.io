@@ -34,17 +34,27 @@ Atribuições;
 •	Responsável pela garantia;
 
 •	Responsável nas efetuação da venda;
--____________________________________________________________
+
+____________________________________________________________
+
 **  Eletro Ar**    
+
 Cargo: Ajudante de Técnico em Ar-condicionado -(12/08/2018 – 15/02/2019).
+
 **Atribuição**
+
 •	Responsável por fazer instalação e remoção de Ar-condicionado;
+
 •	Higienização do Ar-condicionado no ambiente e fora do ambiente instalado;
+
 •	Responsável pela parte elétrica;
 
 ## Conhecimento Profissional
+
 -*•	Conhecimento intermediário dos Sistemas Operacionais Windows 7, Windows 8, Windows 10, Linux Mint, Linux Ubuntu;*
+
 -*•	Execução de tarefas básicas de manutenção via Terminal Linux e CMD (Microsoft);*
+
 -*•	Ferramentas de virtualização VMware Workstation e Oracle VirtualBox;*
 
 -*•	Manutenção de computadores (software e hardware);*
@@ -52,7 +62,3 @@ Cargo: Ajudante de Técnico em Ar-condicionado -(12/08/2018 – 15/02/2019).
 -*•	Conhecimento nas linguagens C#, PHP, JavaScript, jQuery;*
 
 -*•	Banco de Dados.*
-
-
-
-
