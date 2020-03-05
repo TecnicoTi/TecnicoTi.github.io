@@ -15,7 +15,7 @@ Tenho grande interesse por Tecnologia, especialmente pelo Desenvolvimento Web e 
 - *Desenvolvimento Web com Gerenciador de Conteúdo Wordpress e Plugins;*
 
 ## Experiências 
-**Troia Parts- LTDA **
+**Troia Parts- LTDA**
 
 Cargo: Serviço Geral – (10/04/2019 – 05/11/2019  );
 
@@ -37,7 +37,7 @@ Atribuições;
 
 ____________________________________________________________
 
-**  Eletro Ar**    
+**Eletro Ar**    
 
 Cargo: Ajudante de Técnico em Ar-condicionado -(12/08/2018 – 15/02/2019).
 
