@@ -1,6 +1,6 @@
 # Bem-Vindo ao Meu Perfil/Portfólio GitHub
 
-Sou Pedro Antônio de Andrade Alexadre, 18 Anos,Cursando Análise e Desenvolvimento de Sistemas pela Etec Raphael Brandão Barretos.
+Sou Pedro Antônio de Andrade Alexadre, 19 Anos,Cursando Análise e Desenvolvimento de Sistemas pela Etec Raphael Brandão Barretos.
 
 Tenho grande interesse por Tecnologia, especialmente pelo Desenvolvimento Web e Sistemas.
 
